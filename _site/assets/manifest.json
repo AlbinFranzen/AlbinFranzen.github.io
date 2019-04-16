@@ -1,0 +1,43 @@
+{
+  "lang": "en",
+  "name": "Andy's Hydejack Site",
+  "short_name": "Andy's Hydejack Site",
+  "description": "A practice site using the Hydejack theme, built with Jekyll and hosted on Github.",
+  "start_url": "/hydejack-by-andy/?utm_source=homescreen",
+  "theme_color": "rgb(164, 14, 76)",
+  "background_color": "#fff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/hydejack-by-andy/assets/icons/icon@0,25x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/hydejack-by-andy/assets/icons/icon@0,5x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/hydejack-by-andy/assets/icons/icon@0,75x.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/hydejack-by-andy/assets/icons/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/hydejack-by-andy/assets/icons/icon@2x.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/hydejack-by-andy/assets/icons/icon@3x.png",
+      "type": "image/png",
+      "sizes": "576x576"
+    }
+  ]
+}
