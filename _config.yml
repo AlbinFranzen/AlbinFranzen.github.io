@@ -32,7 +32,7 @@ tagline:               >
   A practice site using the Hydejack theme.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [practice, tutorial, beginner, jekyll]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -50,6 +50,8 @@ author:
 menu:
   - title:             Example
     url:               /example/
+  - title:             Site tutorial
+    url:               /tutorial/
   - title:             Documentation
     url:               https://hydejack.com/docs/
   - title:             About
