@@ -31,7 +31,7 @@ node_modules
 .vscode
 
 # Jekyll
-# _site
+_site
 .sass-cache
 
 # macOS
