@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorial
+title: Personal Projects
 ---
 
 <h3>Please work</h3>
