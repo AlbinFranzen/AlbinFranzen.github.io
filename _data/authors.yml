@@ -4,7 +4,7 @@
 author1:
   # Replace <...> with your own (remove the < >)
   name:              Albin Franzén
-  email:             <albinfranzen@hotmail.com>
+  email:             albinfranzen@hotmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,10 +26,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    #twitter:         username
-    github:          an-dy1
+    github:           albinfranzen
+    email:            albinfranzen@hotmail.com
     # download:        <url>
-    email:           <albinfranzen@hotmail.com>
+    # twitter:         username
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
