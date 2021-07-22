@@ -41,14 +41,14 @@ logo:                  /assets/icons/circle_me.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Albin Franzen
-  email:               <albinfranzen@hotmail.com>
+  name:                Albin Franzén
+  email:               albinfranzen@hotmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             About me
+  - title:             About
     url:               /example/
   - title:             Personal Projects
     url:               /tutorial/
