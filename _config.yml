@@ -51,9 +51,9 @@ menu:
   - title:             About
     url:               /about/
   - title:             Personal Projects
-    url:               /tutorial/
+    url:               /Personal_Projects/
   - title:             Kaggle Competitions
-    url:               https://hydejack.com/docs/
+    url:               /Kaggle_Competitions/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
