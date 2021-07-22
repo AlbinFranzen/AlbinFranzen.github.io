@@ -20,7 +20,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Andy's Hydejack Site
+title:                 Albin Franzén
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -32,12 +32,12 @@ tagline:               >
   Newly graduated student of natural sciences with hands-on AI experience seeking to utilise my knowledge in practical applications.
 
 # A list of keywords for your blog
-keywords:              [practice, tutorial, beginner, jekyll]
+keywords:              []
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icons8-full-moon-filled-100.png
+logo:                  /assets/icons/circle_me.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
