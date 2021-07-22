@@ -43,6 +43,9 @@ logo:                  /assets/icons/circle_me.png
 author:
   name:                Albin Franzén
   email:               albinfranzen@hotmail.com
+  about: | 
+    hello 
+    |
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
