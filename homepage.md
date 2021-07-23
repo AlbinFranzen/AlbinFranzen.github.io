@@ -1,5 +1,4 @@
 ---
-layout: home
-title: test
-cover: true
+layout: welcome
+title: blank
 ---
