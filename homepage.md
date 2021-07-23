@@ -1,4 +1,5 @@
 ---
 layout: home
-title: homei
+title: test
+cover: true
 ---
