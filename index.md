@@ -10,3 +10,5 @@ Hello! I am a young aspiring AI enthusiast who graduated high school of natural 
 My prior work experience consists primarily of working as a tennis coach for varied levels from beginner to advanced compeitive players. Tennis is one of my greatest hobbies which I have played since I was very young. Apart from tennis I am also interested in elite calisthenics/bodyweight training and speedcubing.
 
 If you would like to get in touch with me you can send me an email at albinfranzen@hotmail.com
+
+Here you can take a look at my resumé
