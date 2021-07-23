@@ -48,7 +48,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             My_Portfolio
+  - title:             My Portfolio
     url:               /My_Portfolio/
   - title:             Personal Projects
     url:               /Personal_Projects/
