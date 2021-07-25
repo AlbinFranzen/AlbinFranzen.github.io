@@ -9,5 +9,5 @@ Hello and welcome to my machine learning portfolio where I get to showcase my kn
 
 - [Personal Projects](Personal_Projects.md)
 
-- [Kaggle competitions](Kaggle_Competitions.md)
+- [Kaggle Competitions](Kaggle_Competitions.md)
 
