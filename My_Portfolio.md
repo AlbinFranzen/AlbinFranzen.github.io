@@ -7,7 +7,7 @@ Hello and welcome to my machine learning portfolio where I get to showcase my kn
 
 - [Learn more about me](index.md)
 
-- My personal projects
+- [Personal Projects](Personal_Projects.md)
 
-- Kaggle competitions
+- [Kaggle competitions](Kaggle_Competitions.md)
 
