@@ -15,6 +15,6 @@ My prior work experience consists primarily of working as a tennis coach for var
 
 If you would like to get in touch you can send me an email at <a href = "mailto: albinfranzen@hotmail.com">albinfranzen@hotmail.com</a>
 
-Here you can take a look at my <a href="/assets/img/AI_cv.pdf">resumé</a>
+Here you can take a look at my <a href=https://albinfranzen.github.io/assets/img/AI_cv.pdf>resumé</a>
 
-[[/assets/img/AI_cv.pdf|test]]
+
