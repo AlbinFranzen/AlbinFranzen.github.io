@@ -17,4 +17,4 @@ If you would like to get in touch you can send me an email at <a href = "mailto:
 
 Here you can take a look at my <a href=https://albinfranzen.github.io/assets/img/AI_cv.pdf>resumé</a>
 
-[Link to another page](another-page)
+[resumé](/assets/img/AI_cv.pdf)
