@@ -13,13 +13,17 @@ Foundational mathematical skills consists of courses in
   - Matrix theory - TODO
   - Functional analysis - TODO
 
-Statistical skills consists of courses and books in
-  - Combinatorics
+Together with self-studying relevant foundational subjects from books
+
+ - Combinatorics
       * book name
   - Topology
       * book name
   - Measure theory
       * book name 
+
+Statistical skills consists of courses and books in
+ 
   - Probability theory - TODO
   - Mathematical statistics
   - Statistical inference - TODO
