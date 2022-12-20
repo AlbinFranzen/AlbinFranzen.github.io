@@ -13,7 +13,7 @@ Foundational mathematical skills consists of courses in
   - Matrix theory - TODO
   - Functional analysis - TODO
 
-Together with self-studying relevant foundational subjects from books
+Together with self-studying relevant foundational subjects from books about
 
  - Combinatorics
       * book name
