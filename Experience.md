@@ -22,12 +22,11 @@ Statistical skills consists of courses and books in
       * book name 
   - Probability theory - TODO
   - Mathematical statistics
+  - Statistical inference - TODO
   - Stochastic processes - TODO
   - Markov processes - TODO
   - Time series analysis - TODO
   - Spatial statistics - TODO
 
-Along with reading books about
-  - Foundations of statistics - TODO
-  - Statistical inference - TODO
-  - 
+  
+
