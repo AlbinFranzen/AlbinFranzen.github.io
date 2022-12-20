@@ -15,7 +15,7 @@ Foundational mathematical skills consists of courses in
 
 Together with self-studying relevant foundational subjects from books about
 
- - Discrete math and Combinatorics
+ - Discrete math and combinatorics
       * book name
   - Topology
       * book name
